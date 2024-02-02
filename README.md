@@ -70,6 +70,17 @@ Nextjs, Typescrip, Yup, Hook Form
 
 TODO
 
+## Aplicação (exemplo)
+
+
+![login](https://github.com/matheusgit1/code-commerce/blob/main/assets/login.png)
+
+
+![cart](https://github.com/matheusgit1/code-commerce/blob/main/assets/my-cart.png)
+
+
+![Arquitetura](https://github.com/matheusgit1/code-commerce/blob/main/assets/produtos.png)
+
 ## Arquitetura implementada
 
 ### Arquitetura geral do projeto
